@@ -14,6 +14,7 @@
 		1D1775D12243B35700937139 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D1775CF2243B35700937139 /* LaunchScreen.storyboard */; };
 		1D1775DC2243B35700937139 /* clashRoyaleIntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1775DB2243B35700937139 /* clashRoyaleIntroTests.swift */; };
 		1D1775E72243B35700937139 /* clashRoyaleIntroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1775E62243B35700937139 /* clashRoyaleIntroUITests.swift */; };
+		1DB3DBD92244ACE30040AABD /* trsd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB3DBD82244ACE30040AABD /* trsd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1D1775E22243B35700937139 /* clashRoyaleIntroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = clashRoyaleIntroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D1775E62243B35700937139 /* clashRoyaleIntroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clashRoyaleIntroUITests.swift; sourceTree = "<group>"; };
 		1D1775E82243B35700937139 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DB3DBD82244ACE30040AABD /* trsd.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = trsd.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				1D1775C62243B35500937139 /* AppDelegate.swift */,
 				1D1775C82243B35500937139 /* ViewController.swift */,
 				1D1775CA2243B35500937139 /* Main.storyboard */,
+				1DB3DBD82244ACE30040AABD /* trsd.swift */,
 				1D1775CD2243B35700937139 /* Assets.xcassets */,
 				1D1775CF2243B35700937139 /* LaunchScreen.storyboard */,
 				1D1775D22243B35700937139 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D1775C92243B35500937139 /* ViewController.swift in Sources */,
+				1DB3DBD92244ACE30040AABD /* trsd.swift in Sources */,
 				1D1775C72243B35500937139 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
